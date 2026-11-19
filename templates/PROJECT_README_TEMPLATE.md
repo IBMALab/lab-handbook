@@ -33,6 +33,13 @@
 | License / ethics | <license, IRB/ethics approval no.> |
 
 > ⚠️ Data is **not** stored in this repository. See `data/README.md`.
+> If the dataset is too large for GitHub, give the **download link** and **how to access it** (permission, registration, licence) and **where to place it** locally.
+
+**Data access (for large datasets):**
+- Link: <URL to shared drive / cloud folder / public source>
+- Access: <who to contact, registration or data-use agreement needed>
+- Download & placement: <steps or commands; e.g. put files in `data/raw/`>
+- Size / version: <e.g. 45 GB, v2.1, downloaded 2026-11>
 
 ## 4. Method
 <Short description of pipeline: preprocessing → features → model → evaluation. Add a diagram if helpful.>
