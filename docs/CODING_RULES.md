@@ -14,6 +14,11 @@ These rules keep our research **reproducible, readable and safe**.
 | `data/README.md` describing where data lives | Passwords, API keys, tokens, `.env` files |
 
 - Store datasets on **lab storage / shared drive**, and document the path & access steps in `data/README.md`.
+- **Large datasets (too heavy for GitHub):** do not upload them. Instead, in `data/README.md` provide:
+  - the **link** to the data (shared drive / cloud folder, lab storage path, or public source such as PhysioNet, OpenNeuro, Kaggle)
+  - **how to access it** — who to ask for permission, any registration/login, licence or data-use agreement
+  - **how to download it and where to place it** locally (e.g. `data/raw/`), with the commands or steps
+  - dataset **size, version/date**, and a checksum if available
 - Large model weights → shared drive or release assets, linked from README.
 - If you accidentally push sensitive data, **tell the PI immediately** — deleting the file is not enough; history must be cleaned.
 
