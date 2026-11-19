@@ -1,4 +1,4 @@
-# ===== Biomedical-Neurocomputing-Lab standard .gitignore =====
+# ===== IBMALab standard .gitignore =====
 
 # ---------- Data (NEVER commit) ----------
 data/*
