@@ -43,7 +43,7 @@ ssh -T git@github.com
 
 ## Step 5 — Create Your Project Repository
 1. Go to the org's **`lab-project-template`** repo → **Use this template → Create a new repository**
-2. **Owner:** `Biomedical-Neurocomputing-Lab` (⚠️ NOT your personal account)
+2. **Owner:** `IBMALab` (⚠️ NOT your personal account)
 3. **Name:** follow the pattern `YYYY-DEGREE-StudentName-Topic`
    → e.g. `2026-MS-ObaidullahM-EEG-Classification`
 4. **Visibility:** **Private**
