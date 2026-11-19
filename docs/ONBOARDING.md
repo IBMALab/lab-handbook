@@ -14,7 +14,7 @@ Complete every step in your **first week** in the lab. Tick them off as you go.
 
 ## Step 2 — Join the Lab Organization
 - [ ] Send your GitHub username to the PI
-- [ ] Accept the invitation to `Biomedical-Neurocomputing-Lab` (check your email or <https://github.com/orgs/Biomedical-Neurocomputing-Lab/invitation>)
+- [ ] Accept the invitation to `IBMALab` (check your email or <https://github.com/orgs/IBMALab/invitation>)
 - [ ] Confirm you've been added to your team (e.g. `MS-2026`, `BS-FYP-2026`)
 
 ## Step 3 — Install Tools
