@@ -7,7 +7,7 @@
 
 **Repository:** `YYYY-DEGREE-StudentName-Topic`
 **Student:** <Full Name> (<BS / MS / PhD / RA>, <Batch / Year>)
-**Supervisor:** Dr. Muhammad Mohsin Khan — Biomedical-Neurocomputing-Lab, PAF-IAST
+**Supervisor:** Dr. Muhammad Mohsin Khan — IBMALab, PAF-IAST
 **Co-supervisor:** <Name, if any>
 **Group members:** <Names — for group FYPs only>
 **Status:** 🟡 In progress | 🟢 Completed | 📄 Published
@@ -49,7 +49,7 @@ docs/          notes, thesis drafts
 
 ## 6. Setup
 ```bash
-git clone git@github.com:Biomedical-Neurocomputing-Lab/<repo-name>.git
+git clone git@github.com:IBMALab/<repo-name>.git
 cd <repo-name>
 conda create -n <env-name> python=3.10
 conda activate <env-name>
