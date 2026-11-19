@@ -1,4 +1,4 @@
-# Biomedical-Neurocomputing-Lab — Lab Handbook
+# Intelligent Biomedical Analysis — Lab Handbook
 
 **Principal Investigator:** Dr. Muhammad Mohsin Khan, Associate Professor, PAF-IAST
 **Research areas:** Biomedical imaging · AI/ML · Neurocomputing · Computing education
