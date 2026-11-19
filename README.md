@@ -11,7 +11,7 @@ Every student must read it before creating their first project repository.
 ## 📌 The Core Rule: One Repository per Student Project
 
 > **Do NOT put your work into one big shared repository.**
-> Every student project gets **its own repository** inside the `Biomedical-Neurocomputing-Lab` organization.
+> Every student project gets **its own repository** inside the `IBMALab` organization.
 
 Why:
 - Clear ownership and history for each student's work
