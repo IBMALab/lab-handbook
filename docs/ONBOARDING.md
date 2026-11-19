@@ -49,7 +49,7 @@ ssh -T git@github.com
 4. **Visibility:** **Private**
 5. Clone it:
 ```bash
-git clone git@github.com:Biomedical-Neurocomputing-Lab/2026-MS-ObaidullahM-EEG-Classification.git
+git clone git@github.com:IBMALab/2026-MS-ObaidullahM-EEG-Classification.git
 ```
 6. Fill in `README.md` using [`templates/PROJECT_README_TEMPLATE.md`](../templates/PROJECT_README_TEMPLATE.md)
 7. Ask the PI to confirm the repo name — **don't rename it later yourself**
