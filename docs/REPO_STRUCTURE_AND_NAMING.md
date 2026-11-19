@@ -2,10 +2,10 @@
 
 ## 1. One Repository per Student Project
 
-Every project lives in **its own repository** inside the `Biomedical-Neurocomputing-Lab` organization.
+Every project lives in **its own repository** inside the `IBMALab` organization.
 
 ```
-Biomedical-Neurocomputing-Lab   (GitHub Organization)
+IBMALab   (GitHub Organization)
 │
 ├── lab-handbook                               ← this repo (rules & onboarding)
 ├── lab-project-template                       ← template for new projects
